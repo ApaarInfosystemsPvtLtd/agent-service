@@ -1,0 +1,12 @@
+server.port=3002
+spring.main.allow-bean-definition-overriding=true
+
+
+##########################  UAT Leader Header #######################################
+leader.header.USRPRF=SUJATHAS
+
+##########################  Lifeasia Connector Connection URL #######################################
+lifeasia.service.url=http://10.168.50.214:2068
+
+##########################  Mongo DB #######################################
+spring.data.mongodb.uri=mongodb://posUser:posUser%40123@10.168.50.147:27017/posuat

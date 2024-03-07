@@ -1,0 +1,15 @@
+server.port=2093
+spring.profiles.include=native
+spring.main.allow-bean-definition-overriding=true
+#logging.level.org.springframework.web=INFO
+#logging.level.org.hibernate=ERROR
+#logging.level.com.pmli=DEBUG
+
+##########################  PROD Leader Header #######################################
+leader.header.USRPRF=DMSAUTO
+
+##########################  Lifeasia Connector PROD Connection URL #######################################
+lifeasia.service.url=http://10.168.2.91:2092
+
+########################## PROD Mongo DB #######################################
+spring.data.mongodb.uri=mongodb://agentUser:agentUser_234@10.168.54.56:27000/dmsagent

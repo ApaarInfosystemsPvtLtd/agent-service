@@ -1,0 +1,226 @@
+#Creation request: -
+
+{
+  "addressProof": "NSAAAD",
+  "agentCode": "60100021",
+  "agentName": {
+    "firstName": "Neha",
+    "lastName": "D'zouza",
+    "middleName": "",
+    "salutation": "Mrs."
+  },
+  "agentType": "AG",
+  "branchCode": "10",
+  "dateOfAppointment": "2020-08-07",
+  "dateOfBirth": "1986-01-22",
+  "gender": "Female",
+  "mailingAddress": {
+    "addressLine01": "",
+    "addressLine02": "",
+    "addressLine03": "",
+    "addressType": "R",
+    "city": "",
+    "phoneNumbers": {
+      "alternate": {
+        "countryCode": "",
+        "phoneNumber": "987654321"
+      },
+      "primary": {
+        "countryCode": "",
+        "phoneNumber": ""
+      }
+    },
+    "pinCode": "699604",
+    "state": "Maharashtra"
+  },
+  "maritalStatus": "Married",
+  "reportingManager": "",
+  "unitCode": "AAD"
+}
+
+
+
+#Modification Request:-
+{
+"addressProof": "NSAAAD",
+"clientCode": "56283272",
+"agentCode": "60100024",
+"agentName": {
+"firstName": "Neha",
+"lastName": "D'zouza",
+"middleName": "",
+"salutation": "Mrs."
+},
+"agentType": "AG",
+"branchCode": "10",
+"dateOfAppointment": "2020-08-07",
+"dateOfBirth": "1986-01-22",
+"gender": "Female",
+"mailingAddress": {
+"addressLine01": "",
+"addressLine02": "",
+"addressLine03": "",
+"addressType": "R",
+"city": "",
+"phoneNumbers": {
+"alternate": {
+"countryCode": "",
+"phoneNumber": "987654321"
+},
+"primary": {
+"countryCode": "",
+"phoneNumber": ""
+}
+},
+"pinCode": "699604",
+"state": "Maharashtra"
+},
+"maritalStatus": "Married",
+"reportingManager": "",
+"unitCode": "AAD"
+}
+
+
+-----------------------------------------------New------------------------------
+{
+"agentCode": "60100056",
+"agentName": {
+"salutation": "Mrs.",
+"firstName": "Neha",
+"lastName": "D'zouza",
+"middleName": ""
+},
+"agentType": "Agency Professional",
+"dateOfAppointment": "2020-08-07",
+"dateOfBirth": "1986-01-22",
+"gender": "Female",
+"mailingAddress": {
+"addressLine01": "",
+"addressLine02": "",
+"addressLine03": "",
+"addressType": "Residential",
+"city": "",
+"phoneNumbers": {
+"alternate": {
+"countryCode": "",
+"phoneNumber": "987654321"
+},
+"primary": {
+"countryCode": "",
+"phoneNumber": ""
+}
+},
+"pinCode": "699604",
+"state": "Maharashtra"
+},
+"maritalStatus": "Married",
+"reportingManager": "",
+"unitCode": "Alllife Capital-Vijay Kumar P"
+}
+
+
+
+
+
+-------modify------
+{
+"agentCode": "60100060",
+"clientCode": "56283311",
+"agentName": {
+"salutation": "Mrs.",
+"firstName": "Neha",
+"lastName": "D'zouza",
+"middleName": ""
+},
+"agentType": "Agency Professional",
+"dateOfAppointment": "2020-08-07",
+"dateOfBirth": "1986-01-22",
+"gender": "Female",
+"mailingAddress": {
+"addressLine01": "",
+"addressLine02": "",
+"addressLine03": "",
+"addressType": "Residential",
+"city": "",
+"phoneNumbers": {
+"alternate": {
+"countryCode": "",
+"phoneNumber": "987654321"
+},
+"primary": {
+"countryCode": "",
+"phoneNumber": ""
+}
+},
+"pinCode": "699604",
+"state": "Maharashtra"
+},
+"maritalStatus": "Married",
+"reportingManager": "",
+
+"unitCode": "Alllife Capital-Vijay Kumar P"
+}
+
+
+
+------------minimum---
+add
+{
+"agentCode": "60100062",
+"agentName": {
+"salutation": "Mrs.",
+"firstName": "Neha",
+"lastName": "D'zouza"
+},
+"agentType": "Agency Professional",
+"dateOfAppointment": "2020-08-07",
+"dateOfBirth": "1986-01-22",
+"gender": "Female",
+"mailingAddress": {
+"addressLine01": "",
+"addressLine02": "",
+"addressLine03": "",
+"city": "",
+"phoneNumbers": {
+"alternate": {
+"countryCode": "",
+"phoneNumber": "987654321"
+}
+},
+"pinCode": "699604",
+"state": "Maharashtra"
+},
+"maritalStatus": "Married",
+"unitCode": "Alllife Capital-Vijay Kumar P"
+}
+
+modify
+{
+"agentCode": "60100060",
+"clientCode": "56283311",
+"agentName": {
+"salutation": "Mrs.",
+"firstName": "Neha",
+"lastName": "D'zouza"
+},
+"agentType": "Agency Professional",
+"dateOfAppointment": "2020-08-07",
+"dateOfBirth": "1986-01-22",
+"gender": "Female",
+"mailingAddress": {
+"addressLine01": "",
+"addressLine02": "",
+"addressLine03": "",
+"city": "",
+"phoneNumbers": {
+"alternate": {
+"countryCode": "",
+"phoneNumber": "987654321"
+}
+},
+"pinCode": "699604",
+"state": "Maharashtra"
+},
+"maritalStatus": "Married",
+"unitCode": "Alllife Capital-Vijay Kumar P"
+}
